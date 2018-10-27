@@ -1,0 +1,105 @@
+@media screen and (min-width: 0px) and (max-width:900px) {
+	
+		#img2{
+			float: left !important;
+			right: 30px !important;
+			bottom: 0px !important;
+			width: 180px !important;
+			margin-top: 120px !important;
+			
+		}
+
+		.content_right{
+		float: right !important;
+		z-index: 20 !important;
+		margin-right: 0px !important;
+		width: 180px !important; 
+		height: 500px !important;
+		
+	}
+	.nav_right{
+		display: none !important;
+	}
+	#img1{
+		display: none !important;
+	}
+	.small_span3{
+		display: none !important;
+	}
+	
+	.content_left{
+		
+		width: 260px !important;
+		height: 300px !important;
+		padding-left: 0px !important;
+		float: left !important;
+		padding-top: 170px !important;
+	}
+	.content_big{
+		margin-left:120px !important;
+		height: 520px !important;
+	}
+
+.small_a{
+	height: 130px !important;
+	width: 250px !important;
+}
+	.nav{
+		margin-left:120px !important;
+		
+	}
+	.small_span6{
+		width: 250px !important;
+		height: 48px !important;
+		display:inline-block;
+		float: left !important;
+	}
+	.small_div1{
+		border-bottom: none !important;
+	}
+	.small_span2{
+		width: 100px !important;
+		height: 40px !important;
+	}
+	.logo{
+		padding-right: 50px;
+	}
+	.big_second{
+		overflow: hidden !important;
+	}
+		.each{
+		height:800px !important;
+        overflow:   !important;
+        position: relative !important;
+	}
+	.big_first{
+		clear: both !important;
+		height: 600px !important;
+	 
+	}
+	.big_second{
+		height: 320px !important;
+	}
+ 	body{
+ 		height: 1000px !important;
+ 	}
+	.pg_img1{
+		
+		width: 100px !important;
+		height: 100px !important;
+	}
+		.pg_img{
+		
+		width: 100px !important;
+		height: 100px !important;
+	}
+
+	
+	html{
+		height: 100% !important;
+		width: 100% !important;
+	}
+	.footer{
+		margin-top:300px  !important;
+	}
+	}

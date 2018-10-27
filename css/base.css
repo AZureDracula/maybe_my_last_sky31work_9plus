@@ -1,0 +1,30 @@
+* {
+	margin: 0px auto;
+	padding: 0px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+body {
+	
+	width: 100%;
+	height: 100%;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+.p_center {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 18px;
+	color: #373737;
+}
+.p_center2 {
+	text-align: center;
+
+	font-size: 18px;
+	color: #373737;
+}
